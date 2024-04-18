@@ -35,7 +35,7 @@
 <p align="left"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" title="github" width="40" height="40"/> </p>
 
 #### Editor / IDE I ♥
-<p align="left"><img src="https://th.bing.com/th/id/OIP.JLPGJGZg2UoUNBUahzOUOAAAAA?rs=1&pid=ImgDetMain" alt="sublime" title="sublime" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/> </p>
+<p align="left"><img src="https://th.bing.com/th/id/OIP.JLPGJGZg2UoUNBUahzOUOAAAAA?rs=1&pid=ImgDetMain" alt="sublime" title="sublime" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/> <img src="https://th.bing.com/th/id/OIP.zfG8FW1Z61TDDwJjGR2T-AAAAA?rs=1&pid=ImgDetMain" alt="android studio" title="android studio" width="50" height="50"/> </p>
 
 ### Coding Platforms
 
